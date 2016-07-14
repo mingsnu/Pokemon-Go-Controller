@@ -139,6 +139,7 @@
 				TargetAttributes = {
 					1111830C1D2E76AE00AD1C0E = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = M434WDVA9C;
 					};
 				};
 			};
@@ -351,7 +352,7 @@
 				INFOPLIST_FILE = PokemonController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.dreamhunter.PokemonController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dreamhunter.PokemonController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -368,7 +369,7 @@
 				INFOPLIST_FILE = PokemonController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = me.dreamhunter.PokemonController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dreamhunter.PokemonController;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
